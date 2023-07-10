@@ -25,7 +25,7 @@ import regex as re
 # In[8]:
 
 
-api_key = 'AIzaSyD05SPOn4L28j2JegCIkcmXEeIuDotQ-sI'
+api_key = '########'
 
 
 # In[21]:
